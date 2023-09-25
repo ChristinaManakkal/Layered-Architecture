@@ -1,0 +1,13 @@
+127.0.0.1 - - [14/Sep/2023:20:31:42 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:31:43 +0530] "GET /OnlineShoppingSystem/index1.jsp HTTP/1.1" 200 1776
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:31:43 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:31:46 +0530] "GET /OnlineShoppingSystem/customerlogin.jsp? HTTP/1.1" 200 1780
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:31:52 +0530] "POST /OnlineShoppingSystem/checkCustomer HTTP/1.1" 200 2007
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:31:55 +0530] "GET /OnlineShoppingSystem/showCart? HTTP/1.1" 200 4636
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:31:59 +0530] "POST /OnlineShoppingSystem/wallet.jsp HTTP/1.1" 200 252
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:32:32 +0530] "POST /OnlineShoppingSystem/wallet.jsp HTTP/1.1" 200 252
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:35:27 +0530] "GET /OnlineShoppingSystem/showCart? HTTP/1.1" 200 4636
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:35:30 +0530] "POST /OnlineShoppingSystem/wallet.jsp HTTP/1.1" 200 253
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:35:41 +0530] "POST /OnlineShoppingSystem/wallet.jsp HTTP/1.1" 200 252
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:45:25 +0530] "GET /OnlineShoppingSystem/showCart? HTTP/1.1" 200 4636
+0:0:0:0:0:0:0:1 - - [14/Sep/2023:20:45:26 +0530] "POST /OnlineShoppingSystem/wallet.jsp HTTP/1.1" 200 252

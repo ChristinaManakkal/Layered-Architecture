@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\javaDemos\LayeredArchitectureDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2919134597.index
+\LayeredArchitectureDemo\src\main\java
+C:\javaDemos\LayeredArchitectureDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\743707557.index
+\ShoppingApp\src\main\java
+C:\javaDemos\LayeredArchitectureDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3773696682.index
+\OnlineShoppingSystem\src\main\java
